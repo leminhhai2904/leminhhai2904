@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Xin chào! Mình là Minh Hải
 
 <!--
 **leminhhai2904/leminhhai2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
